@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "UxOZ2F/6E4k=",
+  "success": true,
+  "projectFilePath": "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\RailwayConformityApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gorea Stefan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gorea Stefan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Gorea Stefan\\.nuget\\packages\\select.htmltopdf\\26.2.0\\select.htmltopdf.26.2.0.nupkg.sha512",
+    "C:\\Users\\Gorea Stefan\\.nuget\\packages\\select.pdf\\26.2.0\\select.pdf.26.2.0.nupkg.sha512",
+    "C:\\Users\\Gorea Stefan\\.nuget\\packages\\select.pdf.netcore\\26.2.0\\select.pdf.netcore.26.2.0.nupkg.sha512",
+    "C:\\Users\\Gorea Stefan\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Stub.System.Data.SQLite.Core.NetFramework 1.0.119' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\RailwayConformityApp.csproj",
+      "warningLevel": 1,
+      "filePath": "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\RailwayConformityApp.csproj",
+      "libraryId": "Stub.System.Data.SQLite.Core.NetFramework",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
+}

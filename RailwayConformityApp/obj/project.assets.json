@@ -299,11 +299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\RailwayConformityApp.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\p\\RailwayConformityApp\\RailwayConformityApp.csproj",
       "projectName": "RailwayConformityApp",
-      "projectPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\RailwayConformityApp.csproj",
+      "projectPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\p\\RailwayConformityApp\\RailwayConformityApp.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\p\\RailwayConformityApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

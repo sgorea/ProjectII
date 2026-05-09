@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\RailwayConformityApp.csproj": {}
+    "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\RailwayConformityApp.csproj": {}
   },
   "projects": {
-    "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\RailwayConformityApp.csproj": {
+    "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\RailwayConformityApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\RailwayConformityApp.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\RailwayConformityApp.csproj",
         "projectName": "RailwayConformityApp",
-        "projectPath": "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\RailwayConformityApp.csproj",
-        "packagesPath": "C:\\Users\\Gorea Stefan\\.nuget\\packages\\",
-        "outputPath": "G:\\UTCN\\III\\II\\ProjectII\\ProjectII-master\\RailwayConformityApp\\obj\\",
+        "projectPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\RailwayConformityApp.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\Facultate\\AN 3\\Semestrul 2\\II\\Project\\Projectf\\RailwayConformityApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gorea Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
